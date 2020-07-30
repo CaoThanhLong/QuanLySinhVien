@@ -30,3 +30,8 @@ var renderSinhVien = function () {
 };
 
 renderSinhVien();
+
+// Long thực hiện
+var capNhapSinhVien = function (id, sinhvien) {
+  console.log("Cập nhật sinh viên " + id);
+};

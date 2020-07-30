@@ -30,3 +30,7 @@ var renderSinhVien = function () {
 };
 
 renderSinhVien();
+//Nhân ADD
+var xoaSinhVien = function(idSinhVien){
+  console.log("Xóa sinh viên" + idSinhVien);
+}

@@ -34,3 +34,7 @@ renderSinhVien();
 //Nhân ADD
 var xoaSinhVien = function(idSinhVien){
   console.log("Xóa sinh viên" + idSinhVien)}
+
+  var Khuyen =function(){
+    console.log('Khuyen');
+  }

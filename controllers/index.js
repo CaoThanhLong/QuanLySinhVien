@@ -35,3 +35,7 @@ renderSinhVien();
 var capNhapSinhVien = function (id, sinhvien) {
   console.log("Cập nhật sinh viên " + id);
 };
+//Nhân ADD
+var xoaSinhVien = function (idSinhVien) {
+  console.log("Xóa sinh viên" + idSinhVien);
+};

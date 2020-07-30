@@ -30,3 +30,8 @@ var renderSinhVien = function () {
 };
 
 renderSinhVien();
+
+
+var xoaSinhVien = function(){
+  console.log('Xoá sinh viên');
+}
